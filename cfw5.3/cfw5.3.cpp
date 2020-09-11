@@ -41,7 +41,7 @@ void name() {
 		printf("nickname1 > nickname2\n");
 		numi();
 	}
-}
+} 
 
 int main() {
 	name();
